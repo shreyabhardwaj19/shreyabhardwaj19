@@ -8,7 +8,8 @@ I have experience in Manual Testing, UAT, Regression Testing, and exposure to Au
 
 Currently, I'm strengthening my JavaScript and Playwright skills while exploring AI/LLM Testing.
 
-👩‍💻 About Me
+
+**👩‍💻 About Me**
 
 🔍 3.5+ years of experience in Quality Assurance.
 
@@ -22,7 +23,8 @@ Currently, I'm strengthening my JavaScript and Playwright skills while exploring
 
 🌱 Believe in continuous learning and practical implementation.
 
-🛠️ Skills & Technologies
+
+**🛠️ Skills & Technologies**
 
 Testing: Manual Testing, Functional Testing, Regression Testing, ST, SIT, UAT
 
@@ -32,7 +34,8 @@ AI & Emerging Technologies: LLM Testing, Prompt Validation, Agentic Automation
 
 Other: API Testing, Test Case Design, Defect Reporting
 
-🎯 Currently Focusing On
+
+**🎯 Currently Focusing On**
 
 Building hands-on automation projects.
 
